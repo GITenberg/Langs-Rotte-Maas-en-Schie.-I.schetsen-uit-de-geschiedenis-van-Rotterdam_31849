@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35515'
     url: http://www.gutenberg.org/2009/agents/35515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31849#Langs-Rotte-Maas-en-Schie.-I.schetsen-uit-de-geschiedenis-van-Rotterdam
 gutenberg_issued: '2010-03-31'
 gutenberg_type: Text
 identifiers:
