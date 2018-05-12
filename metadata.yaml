@@ -1,0 +1,31 @@
+_repo: Langs-Rotte-Maas-en-Schie.-I.schetsen-uit-de-geschiedenis-van-Rotterdam_31849
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31849-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Droogendijk, J. M.
+    alias: Droogendijk, J.M.
+    gutenberg_agent_id: '35514'
+    url: http://www.gutenberg.org/2009/agents/35514
+  - agent_name: Verburg, J. S.
+    alias: Verburg, J.S.
+    gutenberg_agent_id: '35515'
+    url: http://www.gutenberg.org/2009/agents/35515
+description: ''
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31849'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rotterdam (Netherlands) -- History'
+- !lcc 'DJ'
+title: 'Langs Rotte, Maas en Schie. I.
+
+  schetsen uit de geschiedenis van Rotterdam'
+url: http://www.gutenberg.org/ebooks/31849
